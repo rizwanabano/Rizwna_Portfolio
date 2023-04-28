@@ -14,10 +14,10 @@ const HeroImage = () => {
             <p>AN ENERGETIC FRONT END WEB DEVELOPER.</p>
            <br/>
 
-            <Link to= "/Project" className="btn">Projects</Link>
+            <Link to= "/Project" className="btn">My Work</Link>
 
           
-            <a href= "http://triosdevelopers.com/~R.ShaherBano/Resume/" ><button className="btn-light">My Resume</button></a>
+            <a href= "http://triosdevelopers.com/~R.ShaherBano/Resume/Rizwana_Resume.pdf" target="_blank" rel="noreferrer" ><button className="btn-light">My Resume</button></a>
 
 
 

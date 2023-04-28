@@ -1,6 +1,6 @@
-import GiftShop from "../assests/GiftShop.png"
-import ReactPizzaShop from "../assests/PizzaShop.png"
-import AndroidPizzaShop from "../assests/Android_Pizza_Shop.png"
+import GiftShop from "../assests/ASPGiftShop.png"
+import ReactPizzaShop from "../assests/React_burger_Shop.png"
+import AndroidPizzaShop from "../assests/Android_Pizza_Shop2.png"
 
 const WorkCardData=[
     {
