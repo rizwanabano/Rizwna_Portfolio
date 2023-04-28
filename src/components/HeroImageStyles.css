@@ -28,6 +28,7 @@ opacity: 0.8;
 }
 
 .Intro .content{
+    margin-top: 50px;
   position: absolute;
   transform: translate(-50%,-50%);
   text-align: center;
@@ -79,8 +80,10 @@ opacity: 0.8;
     
     .content .btn-light {
     
-        margin-top: 10px;
+        margin-top: 50px;
         font-size: 0.9rem;
         font-weight: bold;
     }
 }
+
+
